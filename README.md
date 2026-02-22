@@ -24,4 +24,4 @@ The model was validated against a benchmark equity curve to ensure statistical r
 * **Sharpe Ratio:** Calculated to measure the efficiency of the alpha generated relative to the risk taken.
 
 ## Development Workflow
-This project utilizes an AI-assisted development workflow. My focus was on the **architectural logic**—selecting risk parameters, determining feature importance, and validating statistical significance—while utilizing AI tools for syntax optimization and boilerplate debugging. This approach mirrors the modern professional "Pair Programming" environment used in top-tier financial institutions.
+This project utilizes an AI-assisted development workflow. My focus was on the **architectural logic:** selecting risk parameters, determining feature importance, and validating statistical significance, while utilizing AI tools for syntax optimization and boilerplate debugging. This approach mirrors the modern professional "Pair Programming" environment used in top-tier financial institutions.
