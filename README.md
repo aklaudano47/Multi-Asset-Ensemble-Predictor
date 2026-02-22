@@ -17,6 +17,7 @@ This project develops a Python-based ensemble learning system designed to predic
 * **Visualization:** `matplotlib`
 
 ## Performance Results
+![Ensemble Strategy Performance](Equity_Ensemble_Curve.png)
 The model was validated against a benchmark equity curve to ensure statistical robustness. Key results include:
 * **Directional Accuracy:** 52.87% (A statistically relevant and realistic figure for high-frequency financial time series).
 * **Max Drawdown (MDD):** Monitored to ensure strategy survival during high-volatility regimes.
